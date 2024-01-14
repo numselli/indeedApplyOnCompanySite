@@ -30,6 +30,7 @@ This [Tampermonkey](https://www.tampermonkey.net/) script adds four configurable
 4) At the bottom paste `https://raw.githubusercontent.com/numselli/indeedApplyOnCompanySite/main/indeedApplyOnCompanySite.js` it to the `Import from URL`
 5) Click install
 6) If you wish to change the scripts behaviour from the defualt follow the **How to configure** section below
+7) Finaly click install at the top of the page
 
 
 ## How to configure
